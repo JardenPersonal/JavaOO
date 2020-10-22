@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Opdracht Persoon/Opdracht Persoon.iml" filepath="$PROJECT_DIR$/Opdracht Persoon/Opdracht Persoon.iml" />
       <module fileurl="file://$PROJECT_DIR$/Opdracht Random/Opdracht Random.iml" filepath="$PROJECT_DIR$/Opdracht Random/Opdracht Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opdracht Veelhoek/Opdracht Veelhoek.iml" filepath="$PROJECT_DIR$/Opdracht Veelhoek/Opdracht Veelhoek.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4.iml" filepath="$PROJECT_DIR$/Week4.iml" />
     </modules>
   </component>
